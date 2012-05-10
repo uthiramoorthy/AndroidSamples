@@ -1,0 +1,10 @@
+INSERT INTO "venues" ("_id", "postal_code", "lat", "lng", "address", "type") VALUES (1, "SW1A 2AX", "51.504981", "-0.127262", "Horseguard Parade, Whitehall, London, SW1A 2AX", 1);
+INSERT INTO "venues" ("_id", "postal_code", "lat", "lng", "address", "type") VALUES (2, "SE10 0DX", "51.501571", "0.005532", "The O2, Peninsula Square, London, SE10 0DX", 1);
+INSERT INTO "venues" ("_id", "postal_code", "lat", "lng", "address", "type") VALUES (3, "W1B 1JA", "51.51772625174497","-0.14411509037017822", "The Langham Hotel, 1C Portland Pl, Westminster, London, W1B 1JA", 1);
+INSERT INTO "venues" ("_id", "postal_code", "lat", "lng", "address", "type") VALUES (4, "E16 1XL", "51.50816", "0.02712", "ExCel, One Western Gateway, Royal Victoria Dock, London, E16 1XL", 1);
+INSERT INTO "venues" ("_id", "postal_code", "lat", "lng", "address", "type") VALUES (5, "E20 2ST", "51.53854140853689", "-0.016543865203857422", "Olympic Park, Stratford, London, E20 2ST", 1);
+INSERT INTO "venues" ("_id", "postal_code", "lat", "lng", "address", "type") VALUES (6, "WC1B 3DG", "51.51897", "-0.1265", "BRITISH MUSEUM, Great Russell Street, London, WC1B 3DG", 2);
+INSERT INTO "venues" ("_id", "postal_code", "lat", "lng", "address", "type") VALUES (7, "EC4M 8", "51.513897256014594", "-0.0986623764038086", "ST.PAUL'S CATHEDRAL, Saint Paul's Church Yard, City of London, London,EC4M 8", 2);
+INSERT INTO "venues" ("_id", "postal_code", "lat", "lng", "address", "type") VALUES (8, "EC3N 4AB", "51.508602", "-0.076013", "TOWER OF LONDON / CROWN JEWELS, Tower Hill, London, EC3N 4AB", 2);
+INSERT INTO "venues" ("_id", "postal_code", "lat", "lng", "address", "type") VALUES (9, "WC2E 8RF", "51.512061", "-0.122965", "COVENT GARDEN, Covent Garden, London, WC2E 8RF", 2);
+INSERT INTO "venues" ("_id", "postal_code", "lat", "lng", "address", "type") VALUES (10, "WC2R 1LA", "51.510732", "-0.116938", "SOMERSET HOUSE, Strand London, Greater London, WC2R 1LA", 2);
