@@ -84,8 +84,6 @@ public class MapDirectionDemoActivity extends MapActivity {
 	}
 	
 	private void showMyLocation() {
-		// Test Current Location Latitude:51.540900326386556,
-				// Longtitude:-0.05759239196777344
 		if(myLocation != null)
 			mapOverlays.remove(myLocation);
 		myLocation = new MyItemizedOverlay(myLocationPin);
